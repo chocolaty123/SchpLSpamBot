@@ -1,5 +1,11 @@
 # SPL SPAM BOT
 
+<b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
+</p>
+<h3 align="center">
+
+ ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+
 » Deploy 10 Bots at a time !
 
 » Pyrogram based !
