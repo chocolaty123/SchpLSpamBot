@@ -1,4 +1,12 @@
 # SPL SPAM BOT
+<details>
+
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Rajpomane/SEMXxBOTFATHER)
+  
+</details>
 
 » Deploy 10 Bots at a time !
 
