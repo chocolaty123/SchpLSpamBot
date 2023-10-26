@@ -27,7 +27,7 @@ class DEV:
     # YOU CAN ADD SUDO USING /addsudo
 
 class STUFF:
-    ALIVE_PIC = os.environ["ALIVE_PIC"]
-    HELP_PIC = os.environ["HELP_PIC"]
-    START_PIC = os.environ["START_PIC"]
-    COMMAND_HANDLER = os.environ["COMMAND_HANDLER"]
+    ALIVE_PIC = os.environ["https://graph.org/file/3a2136503a930532ec61e.jpg"]
+    HELP_PIC = os.environ["https://graph.org/file/3a2136503a930532ec61e.jpg"]
+    START_PIC = os.environ["https://graph.org/file/3a2136503a930532ec61e.jpg"]
+    COMMAND_HANDLER = os.environ["!"]
